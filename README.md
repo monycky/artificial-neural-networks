@@ -1,2 +1,3 @@
 # neural-networks
-examples of studies about artificial neural networks
+
+A simple neural network in python 
